@@ -1,0 +1,341 @@
+{
+    "m_SelectedDeviceId": "ce10171a88962cd70d",
+    "m_SelectedPackage": {
+        "deviceId": "ce10171a88962cd70d",
+        "name": "com.exam.UnityPlugin",
+        "processId": 440,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 17120,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 20882,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 22089,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.sec.android.app.launcher",
+            "processId": 2985,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 24324,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 32357,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 5410,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 10875,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 15108,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 17128,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 18450,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 19523,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 20600,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 23003,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 26503,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 28696,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 29477,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 32152,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 3386,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 5115,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 7170,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 8473,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 9325,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 10251,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 11116,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 11845,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 12986,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 14311,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 15785,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 16823,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 17495,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 18785,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 19491,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 20183,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 20807,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 21675,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 22266,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 23015,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 23763,
+            "exited": false
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 10611,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 19665,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 12302,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 13450,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 24205,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 31484,
+            "exited": false
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 440,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
