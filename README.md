@@ -1,11 +1,16 @@
 # Defence_ARGame
 HSU 2021-2 [Network Programming / Virtual Reality] Final Term Project
 
+
 [this game needs actual playing cards]
 Place your Playing Cards on your ACTUAL desk
+
 by placing your cards...
+
 Make Turret to Defense the waves of enemies!
+
 Make Barrack to Attack your opponent by placing!
+
 
 Use Variable Turrets/Barracks and Items to win the Game!
 
