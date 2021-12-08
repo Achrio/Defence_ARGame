@@ -1,0 +1,2 @@
+libil2cpp.so filter=lfs diff=lfs merge=lfs -text
+com.ptc.vuforia.engine-10.2.5.tgz filter=lfs diff=lfs merge=lfs -text
