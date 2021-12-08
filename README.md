@@ -2,7 +2,6 @@
 HSU 2021-2 [Network Programming / Virtual Reality] Final Term Project
 
 
-[this game needs actual playing cards]
 Place your Playing Cards on your ACTUAL desk
 
 by placing your cards...
