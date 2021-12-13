@@ -1,0 +1,149 @@
+{
+    "m_SelectedDeviceId": "ce10171a88962cd70d",
+    "m_SelectedPackage": {
+        "deviceId": "ce10171a88962cd70d",
+        "name": "com.exam.UnityPlugin",
+        "processId": 20729,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 21675,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 22266,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 23015,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 23763,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 10334,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR20R910V",
+            "name": "com.exam.UnityPlugin",
+            "processId": 18857,
+            "exited": false
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 440,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 7173,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 29945,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.samsung.android.messaging",
+            "processId": 5627,
+            "exited": false
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 8423,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 10998,
+            "exited": true
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 15812,
+            "exited": false
+        },
+        {
+            "deviceId": "ce10171a88962cd70d",
+            "name": "com.exam.UnityPlugin",
+            "processId": 20729,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
