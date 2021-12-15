@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Achro\Documents\GitHub\Defence_ARGame\ARDefenseServer\.metadata\.plugins\org.eclipse.jdt.core
+2431781563.index
+2896400869.index
+1865797976.index
