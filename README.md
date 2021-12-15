@@ -2,9 +2,11 @@
 HSU 2021-2 [Network Programming / Virtual Reality] Final Term Project
 
 
-Server - 네트워크 서버
+Server - 네트워크 자바 서버 파일
 
-ARDefenseAPK.zip - apk 파일
+server.exe - 서버 실행 파일
+
+ARDefenseAPK.zip - 게임 apk 파일
 
 PluginActivity.java - AAR로 사용한 안드로이드 자바 코드
 
