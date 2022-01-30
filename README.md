@@ -1,5 +1,5 @@
 # Defence_ARGame
-HSU 2021-2 [Network Programming / Virtual Reality] Final Term Project
+2021-2 [Network Programming / Virtual Reality] Final Term Project
 
 
 Server - 네트워크 자바 서버 파일
